@@ -27,3 +27,6 @@ The process will include 4 steps
 ## References
 1. [Installing PyTextRank and Spacy models](https://derwen.ai/docs/ptr/start/)
 2. [Working of TextRank](https://towardsdatascience.com/textrank-for-keyword-extraction-by-python-c0bae21bcec0)
+
+## Walkthrough
+[![SEO Keyword Extraction using Python code | Python Automation projects | Naukri Learning](https://yt-embed.herokuapp.com/embed?v=s4GseOjHIlU)](https://youtu.be/s4GseOjHIlU "SEO Keyword Extraction using Python code | Python Automation projects | Naukri Learning")
